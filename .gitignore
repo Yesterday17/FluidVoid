@@ -1,0 +1,29 @@
+# Dir
+/mods
+/saves
+/logs
+/backups
+/journeymap
+/downloads
+/modlist
+/crash-reports
+
+# logs
+*.log
+
+# BlockDrop Rates
+/config/BlockDrops/*.key
+
+# CTGUI Generated recipes.zs
+/scripts/recipes.zs
+
+# JEI Setting
+/config/JEI/
+
+# Other Files
+options.txt
+.curseclient
+usercache.json
+usernamecache.json
+
+minecraftinstance.json
