@@ -20,6 +20,12 @@
 # JEI Setting
 /config/JEI/
 
+# Astral Sorcery
+/astralsorcery/
+
+# Woot
+/woot/
+
 # Other Files
 options.txt
 .curseclient
