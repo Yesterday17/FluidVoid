@@ -12,7 +12,7 @@
 *.log
 
 # BlockDrop Rates
-/config/BlockDrops/*.key
+/config/BlockDrops/*.txt
 
 # CTGUI Generated recipes.zs
 /scripts/recipes.zs
@@ -25,5 +25,5 @@ options.txt
 .curseclient
 usercache.json
 usernamecache.json
-
+.ReAuth.cfg
 minecraftinstance.json
