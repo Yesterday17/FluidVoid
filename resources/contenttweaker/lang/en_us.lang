@@ -1,2 +1,9 @@
 # Fluid
 fluid.ct_quicksand=Quicksand
+
+# Ore Fluid
+fluid.ct_fluid_iron_tier_1=Iron Essence Tier 1
+fluid.ct_fluid_iron_tier_2=Iron Essence Tier 2
+fluid.ct_fluid_iron_tier_3=Iron Essence Tier 3
+fluid.ct_fluid_iron_tier_4=Iron Essence Tier 4
+fluid.ct_fluid_iron_tier_5=Iron Essence Tier 5

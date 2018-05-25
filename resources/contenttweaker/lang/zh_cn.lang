@@ -2,4 +2,8 @@
 fluid.ct_quicksand=流沙
 
 # Ore Fluid
-fluid.ct_fluid_iron_tier1=铁矿精华液(T1)
+fluid.ct_fluid_iron_tier_1=铁矿精华液(T1)
+fluid.ct_fluid_iron_tier_2=铁矿精华液(T2)
+fluid.ct_fluid_iron_tier_3=铁矿精华液(T3)
+fluid.ct_fluid_iron_tier_4=铁矿精华液(T4)
+fluid.ct_fluid_iron_tier_5=铁矿精华液(T5)
