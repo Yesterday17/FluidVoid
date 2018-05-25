@@ -3088,7 +3088,6 @@ extracells:pattern.fluid:0, ME�?体模�?�: 充能油
 extracells:pattern.fluid:0, ME�?体模�?�: fluid.xu_evil_metal
 extracells:pattern.fluid:0, ME�?体模�?�: fluid.xu_enchanted_metal
 extracells:pattern.fluid:0, ME�?体模�?�: 熔融恶魔金属
-extracells:pattern.fluid:0, ME�?体模�?�: fluid.ct_quicksand
 extracells:pattern.fluid:0, ME�?体模�?�: Resonating Crystal Liquid
 extracells:pattern.fluid:0, ME�?体模�?�: 液体XP
 extracells:pattern.fluid:0, ME�?体模�?�: 杂酚油
@@ -7976,6 +7975,7 @@ appliedenergistics2:facade:0, 线缆伪装板 - 熏黑大理石横梁
 appliedenergistics2:facade:0, 线缆伪装板 - 雕纹熏黑大理石
 appliedenergistics2:facade:0, 线缆伪装板 - 凹面熏黑大理石
 appliedenergistics2:facade:0, 线缆伪装板 - 精致熏黑大理石
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉木书架
 appliedenergistics2:facade:0, 线缆伪装板 - 甘蔗块
 appliedenergistics2:facade:0, 线缆伪装板 - 磨制砂岩
 appliedenergistics2:facade:0, 线缆伪装板 - 磨制石头
@@ -8000,7 +8000,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 竖纹橡木木板
 appliedenergistics2:facade:0, 线缆伪装板 - 竖纹白色染色木板
 appliedenergistics2:facade:0, 线缆伪装板 - 黯际块
 appliedenergistics2:facade:0, 线缆伪装板 - 黯际灯
-appliedenergistics2:facade:0, 线缆伪装板 - 云杉木书架
 appliedenergistics2:facade:0, 线缆伪装板 - 致密黑曜石
 appliedenergistics2:facade:0, 线缆伪装板 - 毒泥土
 appliedenergistics2:facade:0, 线缆伪装板 - 机器框架
@@ -8391,41 +8390,41 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, item.rivets.name模具
-tconstruct:pattern:0, item.chainmail.name模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 剑刃模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 镰刀头模具模具
 tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, item.setting.name模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, item.clasp.name模具
-tconstruct:pattern:0, 弓臂模具
 tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, item.filigree.name模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, item.chainmail.name模具
 tconstruct:pattern:0, 铲头模具
-tconstruct:pattern:0, item.armor_plate.name模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 镐头模具
-tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, item.ringShank.name模具
+tconstruct:pattern:0, 弓臂模具
 tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, item.ringShank.name模具
+tconstruct:pattern:0, 锤头模具
+tconstruct:pattern:0, item.setting.name模具
+tconstruct:pattern:0, 宽斧刃模具
 tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, item.filigree.name模具
+tconstruct:pattern:0, 镰刀头模具模具
+tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 宽护手模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 磨制工具模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, item.clasp.name模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 弓弦模具
+tconstruct:pattern:0, item.armor_plate.name模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, item.rivets.name模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 开掘铲头模具
 tconstruct:shard:0, 木 碎片
 tconstruct:shard:0, 圆石 碎片
 tconstruct:shard:0, 燧石 碎片
@@ -10732,76 +10731,76 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, item.rivets.name铸模
-tconstruct:cast:0, item.chainmail.name铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 剑刃铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 盘铸模
-tconstruct:cast:0, 镰刀头模具铸模
 tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, item.setting.name铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, item.clasp.name铸模
-tconstruct:cast:0, 弓臂铸模
 tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, item.filigree.name铸模
+tconstruct:cast:0, item.chainmail.name铸模
 tconstruct:cast:0, 铲头铸模
-tconstruct:cast:0, item.armor_plate.name铸模
-tconstruct:cast:0, 镐头铸模
-tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, item.ringShank.name铸模
+tconstruct:cast:0, 弓臂铸模
 tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, item.ringShank.name铸模
+tconstruct:cast:0, 锤头铸模
+tconstruct:cast:0, item.setting.name铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, item.filigree.name铸模
+tconstruct:cast:0, 镰刀头模具铸模
+tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 宽护手铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 宽剑刃铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 磨制工具铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, item.clasp.name铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, item.armor_plate.name铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 镐头铸模
+tconstruct:cast:0, item.rivets.name铸模
+tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 开掘铲头铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, item.rivets.name粘土铸模
-tconstruct:clay_cast:0, item.chainmail.name粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 剑刃粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 盘粘土铸模
-tconstruct:clay_cast:0, 镰刀头模具粘土铸模
 tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, item.setting.name粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, item.clasp.name粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
 tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, item.filigree.name粘土铸模
+tconstruct:clay_cast:0, item.chainmail.name粘土铸模
 tconstruct:clay_cast:0, 铲头粘土铸模
-tconstruct:clay_cast:0, item.armor_plate.name粘土铸模
-tconstruct:clay_cast:0, 镐头粘土铸模
-tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, item.ringShank.name粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
 tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, item.ringShank.name粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
+tconstruct:clay_cast:0, item.setting.name粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, item.filigree.name粘土铸模
+tconstruct:clay_cast:0, 镰刀头模具粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 宽护手粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 宽剑刃粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, item.clasp.name粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, item.armor_plate.name粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 镐头粘土铸模
+tconstruct:clay_cast:0, item.rivets.name粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石头楼梯
 tconstruct:punji:0, 尖竹钉
@@ -11240,7 +11239,6 @@ ceramics:clay_bucket:0, 充能油粘土桶
 ceramics:clay_bucket:0, fluid.xu_evil_metal粘土桶
 ceramics:clay_bucket:0, fluid.xu_enchanted_metal粘土桶
 ceramics:clay_bucket:0, 熔融恶魔金属粘土桶
-ceramics:clay_bucket:0, fluid.ct_quicksand粘土桶
 ceramics:clay_bucket:0, 液体XP粘土桶
 ceramics:clay_bucket:0, 杂酚油粘土桶
 ceramics:clay_bucket:0, 植物油粘土桶
@@ -12013,16 +12011,6 @@ ironbackpacks:upgrade:0, 容量显示升级
 ironbackpacks:upgrade:0, 私有升级
 ironbackpacks:upgrade:0, 附加升级
 ironbackpacks:upgrade:0, Everlasting Upgrade
-mob_grinding_utils:fan, 怪物风扇
-mob_grinding_utils:saw, 怪物捣碎器
-mob_grinding_utils:absorption_hopper, 吸收漏斗
-mob_grinding_utils:spikes, 铁钉
-mob_grinding_utils:tank, 奇异水槽
-mob_grinding_utils:tank_sink, XP Drain Singularity Tank
-mob_grinding_utils:xp_tap, XP水龙头
-mob_grinding_utils:wither_muffler, 凋零死亡音效消除器
-mob_grinding_utils:dragon_muffler, 末影龙死亡音效消除器
-mob_grinding_utils:dark_oak_stone, 黑色橡木石头
 mob_grinding_utils:fan_upgrade:0, 怪物风扇升级
 mob_grinding_utils:fan_upgrade:1, 怪物风扇升级
 mob_grinding_utils:fan_upgrade:2, 怪物风扇升级
@@ -12036,6 +12024,16 @@ mob_grinding_utils:saw_upgrade:5, 怪物捣碎器升级
 mob_grinding_utils:mob_swab, 怪物棉签
 mob_grinding_utils:gm_chicken_feed, GM鸡饲料
 mob_grinding_utils:null_sword, 虚构的剑
+mob_grinding_utils:fan, 怪物风扇
+mob_grinding_utils:saw, 怪物捣碎器
+mob_grinding_utils:absorption_hopper, 吸收漏斗
+mob_grinding_utils:spikes, 铁钉
+mob_grinding_utils:tank, 奇异水槽
+mob_grinding_utils:tank_sink, XP Drain Singularity Tank
+mob_grinding_utils:xp_tap, XP水龙头
+mob_grinding_utils:wither_muffler, 凋零死亡音效消除器
+mob_grinding_utils:dragon_muffler, 末影龙死亡音效消除器
+mob_grinding_utils:dark_oak_stone, 黑色橡木石头
 immersiveengineering:ore:0, 铜矿石
 immersiveengineering:ore:1, 铝土矿石
 immersiveengineering:ore:2, 铅矿石
@@ -12366,27 +12364,6 @@ soulshardstow:materials:2, 污秽粉末
 soulshardstow:vile_sword, 污秽剑
 soulshardstow:cage, 灵魂笼
 bq_standard:loot_chest, Loot Chest
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级 (I)
-storagedrawers:upgrade_storage:1, 抽屉容量升级 (II)
-storagedrawers:upgrade_storage:2, 抽屉容量升级 (III)
-storagedrawers:upgrade_storage:3, 抽屉容量升级 (IV)
-storagedrawers:upgrade_storage:4, 抽屉容量升级 (V)
-storagedrawers:upgrade_one_stack, 抽屉容量降级
-storagedrawers:upgrade_status:0, 状态显示升级 (I)
-storagedrawers:upgrade_status:1, 状态显示升级 (II)
-storagedrawers:upgrade_void, 清空升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最多）
-storagedrawers:upgrade_redstone:2, 红石升级（最少）
-storagedrawers:drawer_key, 绑定钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 数量钥匙
-storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -12437,6 +12414,27 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级 (I)
+storagedrawers:upgrade_storage:1, 抽屉容量升级 (II)
+storagedrawers:upgrade_storage:2, 抽屉容量升级 (III)
+storagedrawers:upgrade_storage:3, 抽屉容量升级 (IV)
+storagedrawers:upgrade_storage:4, 抽屉容量升级 (V)
+storagedrawers:upgrade_one_stack, 抽屉容量降级
+storagedrawers:upgrade_status:0, 状态显示升级 (I)
+storagedrawers:upgrade_status:1, 状态显示升级 (II)
+storagedrawers:upgrade_void, 清空升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最多）
+storagedrawers:upgrade_redstone:2, 红石升级（最少）
+storagedrawers:drawer_key, 绑定钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 数量钥匙
+storagedrawers:tape, 打包带
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:1, Basic Drawer 1x2
 storagedrawersextra:extra_drawers:2, Basic Drawer 2x2
@@ -13288,12 +13286,12 @@ tinkersdefense:amulet, item.null.name
 tinkersdefense:gingerbread, item.null.name
 tinkersdefense:redmintcane, item.null.name
 tinkersdefense:greenmintcane, item.null.name
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, 巨型火炬
 torchmaster:mega_torch:1, 熄灭的巨型火炬
 torchmaster:terrain_lighter, 区域火把放置器
 torchmaster:dread_lamp, 恐惧之灯
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 woot:die:0, 网状模具
 woot:die:1, 板状模具
 woot:die:2, 芯片模具
@@ -14029,6 +14027,34 @@ astralsorcery:blockcelestialcollectorcrystal:0, 浮动水晶
 astralsorcery:blockcelestialcollectorcrystal:0, 浮动水晶
 akashictome:tome, item.tome.name
 morphtool:tool, item.tool.name
+quark:witch_hat, item.witch_hat.name
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, 桶装史莱姆
+quark:rune:0, 白色符文
+quark:rune:1, 橙色符文
+quark:rune:2, 品红色符文
+quark:rune:3, 淡蓝色符文
+quark:rune:4, 黄色符文
+quark:rune:5, 黄绿色符文
+quark:rune:6, 粉红色符文
+quark:rune:7, 灰色符文
+quark:rune:8, 淡灰色符文
+quark:rune:9, 青色符文
+quark:rune:10, 紫色符文
+quark:rune:11, 蓝色符文
+quark:rune:12, 棕色符文
+quark:rune:13, 绿色符文
+quark:rune:14, 红色符文
+quark:rune:15, 黑色符文
+quark:rune:16, 七彩符文
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:enderdragon_scale, item.enderdragon_scale.name
 quark:glass_shards:0, 玻璃碎片
 quark:glass_shards:1, 白色玻璃碎片
 quark:glass_shards:2, 橙色玻璃碎片
@@ -14050,6 +14076,87 @@ quark:ender_watcher, tile.ender_watcher.name
 quark:iron_rod, tile.iron_rod.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, 云杉木书架
+quark:custom_bookshelf:1, 白桦木书架
+quark:custom_bookshelf:2, 丛林木书架
+quark:custom_bookshelf:3, 金合欢木书架
+quark:custom_bookshelf:4, 深色橡木书架
+quark:colored_item_frame:0, 白色物品展示框
+quark:colored_item_frame:1, 橙色物品展示框
+quark:colored_item_frame:2, 品红色物品展示框
+quark:colored_item_frame:3, 淡蓝色物品展示框
+quark:colored_item_frame:4, 黄色物品展示框
+quark:colored_item_frame:5, 黄绿色物品展示框
+quark:colored_item_frame:6, 粉红色物品展示框
+quark:colored_item_frame:7, 灰色物品展示框
+quark:colored_item_frame:8, 淡灰色物品展示框
+quark:colored_item_frame:9, 青色物品展示框
+quark:colored_item_frame:10, 紫色物品展示框
+quark:colored_item_frame:11, 蓝色物品展示框
+quark:colored_item_frame:12, 棕色物品展示框
+quark:colored_item_frame:13, 绿色物品展示框
+quark:colored_item_frame:14, 红色物品展示框
+quark:colored_item_frame:15, 黑色物品展示框
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, 云杉木箱子
+quark:custom_chest:1, 白桦木箱子
+quark:custom_chest:2, 丛林木箱子
+quark:custom_chest:3, 金合欢木箱子
+quark:custom_chest:4, 深色橡木箱子
+quark:custom_chest_trap:0, 云杉木陷阱箱
+quark:custom_chest_trap:1, 白桦木陷阱箱
+quark:custom_chest_trap:2, 丛林木陷阱箱
+quark:custom_chest_trap:3, 金合欢木陷阱箱
+quark:custom_chest_trap:4, 深色橡木陷阱箱
+quark:candle:0, 白色蜡烛
+quark:candle:1, 橙色蜡烛
+quark:candle:2, 品红色蜡烛
+quark:candle:3, 淡蓝色蜡烛
+quark:candle:4, 黄色蜡烛
+quark:candle:5, 黄绿色蜡烛
+quark:candle:6, 粉红色蜡烛
+quark:candle:7, 灰色蜡烛
+quark:candle:8, 淡灰色蜡烛
+quark:candle:9, 青色蜡烛
+quark:candle:10, 紫色蜡烛
+quark:candle:11, 蓝色蜡烛
+quark:candle:12, 棕色蜡烛
+quark:candle:13, 绿色蜡烛
+quark:candle:14, 红色蜡烛
+quark:candle:15, 黑色蜡烛
+quark:tallow, item.tallow.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, 橡树树叶地毯
+quark:leaf_carpet:1, 云杉树叶地毯
+quark:leaf_carpet:2, 白桦树叶地毯
+quark:leaf_carpet:3, 丛林树叶地毯
+quark:leaf_carpet:4, 金合欢树叶地毯
+quark:leaf_carpet:5, 深色橡树树叶地毯
+quark:glass_item_frame, item.glass_item_frame.name
 quark:reed_block, tile.reed_block.name
 quark:reed_block_stairs, tile.reed_block_stairs.name
 quark:reed_block_slab:0, 甘蔗台阶
@@ -14308,115 +14415,6 @@ quark:duskbound_lantern, tile.duskbound_lantern.name
 quark:duskbound_block_stairs, tile.duskbound_block_stairs.name
 quark:duskbound_block_slab:0, 黯际台阶
 quark:duskbound_block_wall, tile.duskbound_block_wall.name
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, 桶装史莱姆
-quark:rune:0, 白色符文
-quark:rune:1, 橙色符文
-quark:rune:2, 品红色符文
-quark:rune:3, 淡蓝色符文
-quark:rune:4, 黄色符文
-quark:rune:5, 黄绿色符文
-quark:rune:6, 粉红色符文
-quark:rune:7, 灰色符文
-quark:rune:8, 淡灰色符文
-quark:rune:9, 青色符文
-quark:rune:10, 紫色符文
-quark:rune:11, 蓝色符文
-quark:rune:12, 棕色符文
-quark:rune:13, 绿色符文
-quark:rune:14, 红色符文
-quark:rune:15, 黑色符文
-quark:rune:16, 七彩符文
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:witch_hat, item.witch_hat.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, 云杉木书架
-quark:custom_bookshelf:1, 白桦木书架
-quark:custom_bookshelf:2, 丛林木书架
-quark:custom_bookshelf:3, 金合欢木书架
-quark:custom_bookshelf:4, 深色橡木书架
-quark:colored_item_frame:0, 白色物品展示框
-quark:colored_item_frame:1, 橙色物品展示框
-quark:colored_item_frame:2, 品红色物品展示框
-quark:colored_item_frame:3, 淡蓝色物品展示框
-quark:colored_item_frame:4, 黄色物品展示框
-quark:colored_item_frame:5, 黄绿色物品展示框
-quark:colored_item_frame:6, 粉红色物品展示框
-quark:colored_item_frame:7, 灰色物品展示框
-quark:colored_item_frame:8, 淡灰色物品展示框
-quark:colored_item_frame:9, 青色物品展示框
-quark:colored_item_frame:10, 紫色物品展示框
-quark:colored_item_frame:11, 蓝色物品展示框
-quark:colored_item_frame:12, 棕色物品展示框
-quark:colored_item_frame:13, 绿色物品展示框
-quark:colored_item_frame:14, 红色物品展示框
-quark:colored_item_frame:15, 黑色物品展示框
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, 云杉木箱子
-quark:custom_chest:1, 白桦木箱子
-quark:custom_chest:2, 丛林木箱子
-quark:custom_chest:3, 金合欢木箱子
-quark:custom_chest:4, 深色橡木箱子
-quark:custom_chest_trap:0, 云杉木陷阱箱
-quark:custom_chest_trap:1, 白桦木陷阱箱
-quark:custom_chest_trap:2, 丛林木陷阱箱
-quark:custom_chest_trap:3, 金合欢木陷阱箱
-quark:custom_chest_trap:4, 深色橡木陷阱箱
-quark:candle:0, 白色蜡烛
-quark:candle:1, 橙色蜡烛
-quark:candle:2, 品红色蜡烛
-quark:candle:3, 淡蓝色蜡烛
-quark:candle:4, 黄色蜡烛
-quark:candle:5, 黄绿色蜡烛
-quark:candle:6, 粉红色蜡烛
-quark:candle:7, 灰色蜡烛
-quark:candle:8, 淡灰色蜡烛
-quark:candle:9, 青色蜡烛
-quark:candle:10, 紫色蜡烛
-quark:candle:11, 蓝色蜡烛
-quark:candle:12, 棕色蜡烛
-quark:candle:13, 绿色蜡烛
-quark:candle:14, 红色蜡烛
-quark:candle:15, 黑色蜡烛
-quark:tallow, item.tallow.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, 橡树树叶地毯
-quark:leaf_carpet:1, 云杉树叶地毯
-quark:leaf_carpet:2, 白桦树叶地毯
-quark:leaf_carpet:3, 丛林树叶地毯
-quark:leaf_carpet:4, 金合欢树叶地毯
-quark:leaf_carpet:5, 深色橡树树叶地毯
-quark:glass_item_frame, item.glass_item_frame.name
 avaritiatweaks:enhancement_crystal, Enhancement Crystal
 base:wrench, 扳手
 betterbuilderswands:wandstone, Stone Wand
@@ -17184,6 +17182,13 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 熏黑大理石横梁
 chiselsandbits:block_bit:0, 雕刻碎屑 - 雕纹熏黑大理石
 chiselsandbits:block_bit:0, 雕刻碎屑 - 凹面熏黑大理石
 chiselsandbits:block_bit:0, 雕刻碎屑 - 精致熏黑大理石
+chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
+chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
+chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
+chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
+chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
+chiselsandbits:block_bit:0, 雕刻碎屑 - 点亮的红石灯
+chiselsandbits:block_bit:0, 雕刻碎屑 - 烈焰灯
 chiselsandbits:block_bit:0, 雕刻碎屑 - 甘蔗块 上/下
 chiselsandbits:block_bit:0, 雕刻碎屑 - 磨制砂岩
 chiselsandbits:block_bit:0, 雕刻碎屑 - 砂岩砖
@@ -17279,13 +17284,6 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 竖纹红色染色木板
 chiselsandbits:block_bit:0, 雕刻碎屑 - 竖纹黑色染色木板
 chiselsandbits:block_bit:0, 雕刻碎屑 - 黯际块
 chiselsandbits:block_bit:0, 雕刻碎屑 - 黯际灯
-chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
-chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
-chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
-chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
-chiselsandbits:block_bit:0, 雕刻碎屑 - 云杉木书架
-chiselsandbits:block_bit:0, 雕刻碎屑 - 点亮的红石灯
-chiselsandbits:block_bit:0, 雕刻碎屑 - 烈焰灯
 chiselsandbits:block_bit:0, 雕刻碎屑 - 致密黑曜石
 chiselsandbits:block_bit:0, 雕刻碎屑 - 毒泥土
 chiselsandbits:block_bit:0, 雕刻碎屑 - 机器框架
@@ -17346,7 +17344,6 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 菜籽油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 精制菜籽油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 晶化油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 充能油
-chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑 - 杂酚油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 植物油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 乙醇

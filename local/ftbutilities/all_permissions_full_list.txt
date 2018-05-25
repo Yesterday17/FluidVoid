@@ -1,4 +1,4 @@
-6406 nodes in total
+6416 nodes in total
 Modifying this file won't have any effect!
 
 admin_panel.ftbutilities.edit_world.gamerules: OP
@@ -563,6 +563,11 @@ ftbutilities.claims.block.edit.colossalchests.chest_wall: OP
 ftbutilities.claims.block.edit.colossalchests.colossal_chest: OP
 ftbutilities.claims.block.edit.colossalchests.interface: OP
 ftbutilities.claims.block.edit.colossalchests.uncolossal_chest: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_fluid_iron_tier_1: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_fluid_iron_tier_2: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_fluid_iron_tier_3: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_fluid_iron_tier_4: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_fluid_iron_tier_5: OP
 ftbutilities.claims.block.edit.contenttweaker.ct_quicksand: OP
 ftbutilities.claims.block.edit.darkutils.anti_slime: OP
 ftbutilities.claims.block.edit.darkutils.ender_hopper: OP
@@ -2406,6 +2411,11 @@ ftbutilities.claims.block.interact.colossalchests.chest_wall: OP
 ftbutilities.claims.block.interact.colossalchests.colossal_chest: OP
 ftbutilities.claims.block.interact.colossalchests.interface: OP
 ftbutilities.claims.block.interact.colossalchests.uncolossal_chest: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_fluid_iron_tier_1: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_fluid_iron_tier_2: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_fluid_iron_tier_3: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_fluid_iron_tier_4: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_fluid_iron_tier_5: OP
 ftbutilities.claims.block.interact.contenttweaker.ct_quicksand: OP
 ftbutilities.claims.block.interact.darkutils.anti_slime: OP
 ftbutilities.claims.block.interact.darkutils.ender_hopper: OP
