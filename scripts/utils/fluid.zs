@@ -31,19 +31,23 @@ function f_epic(fluid as Fluid) {
     fluid.rarity = "EPIC";
 }
 
+# Set to Disable Fluid of Placing in Nether.
 function f_vaporize(fluid as Fluid) {
     fluid.vaporize = true;
 }
 
-# Set Fluid Density Level
+# Set Fluid Density
 function f_density(fluid as Fluid, density as Integer) {
     if(density != -1){
-        fluid.density = 10 * density;
+        fluid.density = 100 * density;
     }
 }
 
-function f_viscosity(fluid as Fluid) {
-    //
+# Set Fluid Viscosity
+function f_viscosity(fluid as Fluid, viscosity as Integer) {
+    if(viscosity != -1){
+        fluid.viscosity = 100 * density;
+    }
 }
 
 # Default Fluid Setting
