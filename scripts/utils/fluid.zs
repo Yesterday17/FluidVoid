@@ -32,7 +32,6 @@ function f_epic(fluid as Fluid) {
 }
 
 function f_vaporize(fluid as Fluid) {
-    # It can't be placed in nether.
     fluid.vaporize = true;
 }
 
