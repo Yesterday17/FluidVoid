@@ -7,6 +7,7 @@
 /downloads
 /modlist
 /crash-reports
+/screenshots
 
 # logs
 *.log
@@ -25,6 +26,13 @@
 
 # Woot
 /woot/
+
+# FTBU
+/local/
+
+# Changing configs
+/config/InvTweaks.cfg
+/config/MouseTweaks.cfg
 
 # Other Files
 options.txt
