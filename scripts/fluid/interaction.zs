@@ -3,7 +3,8 @@
 import mods.alfinivia.LiquidInteraction;
 
 # Dirt Production
-LiquidInteraction.add(<liquid:water>, <liquid:ct_quicksand>, dirt);
+# LiquidInteraction.add(<liquid:water>, <liquid:ct_quicksand>, dirt);
+LiquidInteraction.add(<liquid:ct_quicksand>, <liquid:water>, dirt);
 
 # Iron Ore Production
 LiquidInteraction.add(<liquid:water>, <liquid:ct_fluid_iron_tier_1>, ore_iron);
