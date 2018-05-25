@@ -1,4 +1,5 @@
-#priority 
-import mods.astralsorcery.LiquidInteraction;
+#priority 401
 
-LiquidInteraction.addInteraction(<liquid:water>, 0.7f, <liquid:ct_quicksand>, 0.7f, 1, dirt);
+import mods.alfinivia.LiquidInteraction;
+
+LiquidInteraction.add(<liquid:water>, <liquid:ct_quicksand>, dirt);
