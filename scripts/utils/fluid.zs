@@ -46,7 +46,7 @@ function f_density(fluid as Fluid, density as Integer) {
 # Set Fluid Viscosity
 function f_viscosity(fluid as Fluid, viscosity as Integer) {
     if(viscosity != -1){
-        fluid.viscosity = 100 * density;
+        fluid.viscosity = 100 * viscosity;
     }
 }
 
