@@ -3088,6 +3088,7 @@ extracells:pattern.fluid:0, ME�?体模�?�: 充能油
 extracells:pattern.fluid:0, ME�?体模�?�: fluid.xu_evil_metal
 extracells:pattern.fluid:0, ME�?体模�?�: fluid.xu_enchanted_metal
 extracells:pattern.fluid:0, ME�?体模�?�: 熔融恶魔金属
+extracells:pattern.fluid:0, ME�?体模�?�: fluid.ct_quicksand
 extracells:pattern.fluid:0, ME�?体模�?�: Resonating Crystal Liquid
 extracells:pattern.fluid:0, ME�?体模�?�: 液体XP
 extracells:pattern.fluid:0, ME�?体模�?�: 杂酚油
@@ -8390,41 +8391,41 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 箭头模具
-tconstruct:pattern:0, item.ringShank.name模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, item.chainmail.name模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, item.rivets.name模具
-tconstruct:pattern:0, 镐头模具
-tconstruct:pattern:0, item.clasp.name模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 镰刀头模具模具
-tconstruct:pattern:0, item.filigree.name模具
 tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, item.armor_plate.name模具
-tconstruct:pattern:0, item.setting.name模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 剑刃模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 铲头模具
+tconstruct:pattern:0, item.rivets.name模具
+tconstruct:pattern:0, item.chainmail.name模具
 tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 磨制工具模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 锤头模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 镰刀头模具模具
+tconstruct:pattern:0, 手柄模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, item.setting.name模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, item.clasp.name模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, item.filigree.name模具
+tconstruct:pattern:0, 铲头模具
+tconstruct:pattern:0, item.armor_plate.name模具
+tconstruct:pattern:0, 弓弦模具
+tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, item.ringShank.name模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 箭杆模具
 tconstruct:shard:0, 木 碎片
 tconstruct:shard:0, 圆石 碎片
 tconstruct:shard:0, 燧石 碎片
@@ -10731,76 +10732,76 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 箭头铸模
-tconstruct:cast:0, item.ringShank.name铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 盘铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, item.chainmail.name铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, item.rivets.name铸模
-tconstruct:cast:0, 镐头铸模
-tconstruct:cast:0, item.clasp.name铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 镰刀头模具铸模
-tconstruct:cast:0, item.filigree.name铸模
 tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, item.armor_plate.name铸模
-tconstruct:cast:0, item.setting.name铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, 剑刃铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 铲头铸模
+tconstruct:cast:0, item.rivets.name铸模
+tconstruct:cast:0, item.chainmail.name铸模
 tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 磨制工具铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 锤头铸模
+tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 镰刀头模具铸模
+tconstruct:cast:0, 手柄铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, item.setting.name铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, item.clasp.name铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, item.filigree.name铸模
+tconstruct:cast:0, 铲头铸模
+tconstruct:cast:0, item.armor_plate.name铸模
+tconstruct:cast:0, 镐头铸模
+tconstruct:cast:0, 宽剑刃铸模
+tconstruct:cast:0, item.ringShank.name铸模
+tconstruct:cast:0, 箭头铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
-tconstruct:clay_cast:0, item.ringShank.name粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 盘粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, item.chainmail.name粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, item.rivets.name粘土铸模
-tconstruct:clay_cast:0, 镐头粘土铸模
-tconstruct:clay_cast:0, item.clasp.name粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 镰刀头模具粘土铸模
-tconstruct:clay_cast:0, item.filigree.name粘土铸模
 tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, item.armor_plate.name粘土铸模
-tconstruct:clay_cast:0, item.setting.name粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, 剑刃粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 铲头粘土铸模
+tconstruct:clay_cast:0, item.rivets.name粘土铸模
+tconstruct:clay_cast:0, item.chainmail.name粘土铸模
 tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
+tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 镰刀头模具粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, item.setting.name粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, item.clasp.name粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, item.filigree.name粘土铸模
+tconstruct:clay_cast:0, 铲头粘土铸模
+tconstruct:clay_cast:0, item.armor_plate.name粘土铸模
+tconstruct:clay_cast:0, 镐头粘土铸模
+tconstruct:clay_cast:0, 宽剑刃粘土铸模
+tconstruct:clay_cast:0, item.ringShank.name粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石头楼梯
 tconstruct:punji:0, 尖竹钉
@@ -11239,6 +11240,7 @@ ceramics:clay_bucket:0, 充能油粘土桶
 ceramics:clay_bucket:0, fluid.xu_evil_metal粘土桶
 ceramics:clay_bucket:0, fluid.xu_enchanted_metal粘土桶
 ceramics:clay_bucket:0, 熔融恶魔金属粘土桶
+ceramics:clay_bucket:0, fluid.ct_quicksand粘土桶
 ceramics:clay_bucket:0, 液体XP粘土桶
 ceramics:clay_bucket:0, 杂酚油粘土桶
 ceramics:clay_bucket:0, 植物油粘土桶
@@ -12011,6 +12013,16 @@ ironbackpacks:upgrade:0, 容量显示升级
 ironbackpacks:upgrade:0, 私有升级
 ironbackpacks:upgrade:0, 附加升级
 ironbackpacks:upgrade:0, Everlasting Upgrade
+mob_grinding_utils:fan, 怪物风扇
+mob_grinding_utils:saw, 怪物捣碎器
+mob_grinding_utils:absorption_hopper, 吸收漏斗
+mob_grinding_utils:spikes, 铁钉
+mob_grinding_utils:tank, 奇异水槽
+mob_grinding_utils:tank_sink, XP Drain Singularity Tank
+mob_grinding_utils:xp_tap, XP水龙头
+mob_grinding_utils:wither_muffler, 凋零死亡音效消除器
+mob_grinding_utils:dragon_muffler, 末影龙死亡音效消除器
+mob_grinding_utils:dark_oak_stone, 黑色橡木石头
 mob_grinding_utils:fan_upgrade:0, 怪物风扇升级
 mob_grinding_utils:fan_upgrade:1, 怪物风扇升级
 mob_grinding_utils:fan_upgrade:2, 怪物风扇升级
@@ -12024,16 +12036,6 @@ mob_grinding_utils:saw_upgrade:5, 怪物捣碎器升级
 mob_grinding_utils:mob_swab, 怪物棉签
 mob_grinding_utils:gm_chicken_feed, GM鸡饲料
 mob_grinding_utils:null_sword, 虚构的剑
-mob_grinding_utils:fan, 怪物风扇
-mob_grinding_utils:saw, 怪物捣碎器
-mob_grinding_utils:absorption_hopper, 吸收漏斗
-mob_grinding_utils:spikes, 铁钉
-mob_grinding_utils:tank, 奇异水槽
-mob_grinding_utils:tank_sink, XP Drain Singularity Tank
-mob_grinding_utils:xp_tap, XP水龙头
-mob_grinding_utils:wither_muffler, 凋零死亡音效消除器
-mob_grinding_utils:dragon_muffler, 末影龙死亡音效消除器
-mob_grinding_utils:dark_oak_stone, 黑色橡木石头
 immersiveengineering:ore:0, 铜矿石
 immersiveengineering:ore:1, 铝土矿石
 immersiveengineering:ore:2, 铅矿石
@@ -13286,12 +13288,12 @@ tinkersdefense:amulet, item.null.name
 tinkersdefense:gingerbread, item.null.name
 tinkersdefense:redmintcane, item.null.name
 tinkersdefense:greenmintcane, item.null.name
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, 巨型火炬
 torchmaster:mega_torch:1, 熄灭的巨型火炬
 torchmaster:terrain_lighter, 区域火把放置器
 torchmaster:dread_lamp, 恐惧之灯
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 woot:die:0, 网状模具
 woot:die:1, 板状模具
 woot:die:2, 芯片模具
@@ -14044,6 +14046,10 @@ quark:glass_shards:13, 棕色玻璃碎片
 quark:glass_shards:14, 绿色玻璃碎片
 quark:glass_shards:15, 红色玻璃碎片
 quark:glass_shards:16, 黑色玻璃碎片
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
 quark:reed_block, tile.reed_block.name
 quark:reed_block_stairs, tile.reed_block_stairs.name
 quark:reed_block_slab:0, 甘蔗台阶
@@ -14329,6 +14335,7 @@ quark:black_ash, tile.black_ash.name
 quark:ancient_tome, item.ancient_tome.name
 quark:soul_powder, item.soul_powder.name
 quark:enderdragon_scale, item.enderdragon_scale.name
+quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -14410,11 +14417,6 @@ quark:leaf_carpet:3, 丛林树叶地毯
 quark:leaf_carpet:4, 金合欢树叶地毯
 quark:leaf_carpet:5, 深色橡树树叶地毯
 quark:glass_item_frame, item.glass_item_frame.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:witch_hat, item.witch_hat.name
 avaritiatweaks:enhancement_crystal, Enhancement Crystal
 base:wrench, 扳手
 betterbuilderswands:wandstone, Stone Wand
@@ -17344,6 +17346,7 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 菜籽油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 精制菜籽油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 晶化油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 充能油
+chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑 - 杂酚油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 植物油
 chiselsandbits:block_bit:0, 雕刻碎屑 - 乙醇

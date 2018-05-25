@@ -1,4 +1,4 @@
-6404 nodes in total
+6406 nodes in total
 Modifying this file won't have any effect!
 
 admin_panel.ftbutilities.edit_world.gamerules: OP
@@ -563,6 +563,7 @@ ftbutilities.claims.block.edit.colossalchests.chest_wall: OP
 ftbutilities.claims.block.edit.colossalchests.colossal_chest: OP
 ftbutilities.claims.block.edit.colossalchests.interface: OP
 ftbutilities.claims.block.edit.colossalchests.uncolossal_chest: OP
+ftbutilities.claims.block.edit.contenttweaker.ct_quicksand: OP
 ftbutilities.claims.block.edit.darkutils.anti_slime: OP
 ftbutilities.claims.block.edit.darkutils.ender_hopper: OP
 ftbutilities.claims.block.edit.darkutils.ender_pearl_hopper: OP
@@ -2405,6 +2406,7 @@ ftbutilities.claims.block.interact.colossalchests.chest_wall: OP
 ftbutilities.claims.block.interact.colossalchests.colossal_chest: OP
 ftbutilities.claims.block.interact.colossalchests.interface: OP
 ftbutilities.claims.block.interact.colossalchests.uncolossal_chest: OP
+ftbutilities.claims.block.interact.contenttweaker.ct_quicksand: OP
 ftbutilities.claims.block.interact.darkutils.anti_slime: OP
 ftbutilities.claims.block.interact.darkutils.ender_hopper: OP
 ftbutilities.claims.block.interact.darkutils.ender_pearl_hopper: OP
