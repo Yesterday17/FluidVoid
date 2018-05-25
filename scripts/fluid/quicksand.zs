@@ -1,5 +1,5 @@
-#loader contenttweaker
 #priority 500
+#loader contenttweaker
 
 import scripts.utils.fluid.f_default;
 import scripts.utils.fluid.f_viscosity;
